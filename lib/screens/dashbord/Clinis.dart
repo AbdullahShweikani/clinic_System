@@ -17,7 +17,7 @@ class Clinis extends StatefulWidget {
 
 double width1 = 0.94986;
 late Future<AllClinicModel> allClinic;
-
+//////abdooo
 class _ClinisState extends State<Clinis> {
   @override
   void initState() {
